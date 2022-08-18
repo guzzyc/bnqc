@@ -2,6 +2,7 @@ Hi there,
 Simple  urls can be tested with MAMP Apache Server running in public directory 
 
 HTTP  Resource                  Description
+
 GET   /users                    get a list of all users
 GET	  /users/{id}	              get a user by user id
 GET 	/messages/	              get a list of messages
